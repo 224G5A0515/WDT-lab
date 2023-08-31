@@ -1,0 +1,24 @@
+img{
+	border-radius:8px;
+	padding:50px;
+	width:250px;
+	height:250px;
+}
+table,tr,th{
+	text-align:center;
+	color:brown;
+}
+h1{
+	text-align:center;
+	color:red;
+}
+button{
+	background-color:orange;
+	border:20;
+	color:blue;
+	padding:15px 32px;
+	text-align:center;
+	text-decoration:none;
+	display:inline-block;
+	font-size:20px;
+}
